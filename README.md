@@ -3,6 +3,7 @@
 Aplikasi Flutter Mengenai Hari Kemerdekaan Indonesia yaitu Lomba-Lomba yang sering dilaksanakan pada hari kemerdekaan
 
 ### Screenshot
+![Alt text](images/Screenshot_2019-11-22-05-08-54-484_com.example.submission_2)
 
 ### Built With
 - [Flutter](https://flutter.dev)
